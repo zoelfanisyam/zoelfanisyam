@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://media.licdn.com/dms/image/v2/D5616AQGBzzlhfI2u6w/profile-displaybackgroundimage-shrink_350_1400/B56ZWneWO8GsAc-/0/1742271506538?e=1751500800&v=beta&t=eYuAM2nxWMC1c0B7j_CA1NcQ6JIC_7C12mqISgaNM8E)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Hisyam</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -13,7 +13,16 @@
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at zoelfanisyam@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlqZjI3d3F5aHl4aXhsZnZ5NDQxeTBqbm1nNmVtcTNjdWExdmsycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llBprZ5L7Bm2YLX8va/giphy.gif" align="right"/>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zoelfanisyam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zoelfanisyam&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<img alt="Night Coding" height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlqZjI3d3F5aHl4aXhsZnZ5NDQxeTBqbm1nNmVtcTNjdWExdmsycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llBprZ5L7Bm2YLX8va/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,19 +39,12 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zoelfanisyam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zoelfanisyam&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hisyam-arief-zulfani-661821239/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hisyamzulf/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hisyam-arief-zulfani-661821239/"><img src="https://img.shields.io/badge/-Hisyam Arief Zulfani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-zoelfanisyam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/hisyamzulf/"><img src="https://img.shields.io/badge/-@hisyamzulf-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
